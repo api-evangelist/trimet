@@ -1,0 +1,125 @@
+{
+    "name": "TriMet",
+    "description": "TriMet, more formally known as the Tri-County Metropolitan Transportation District of Oregon, is a public agency that operates mass transit in a region that spans most of the Portland metropolitan area in the US state of Oregon.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/504-trimet.jpg",
+    "tags": [
+        "have api",
+        "oregon",
+        "portland"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trimet\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TriMet",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/504-trimet.jpg",
+            "humanURL": "http:\/\/trimet.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trimet-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trimet"
+        },
+        {
+            "type": "Email",
+            "url": "gonzaleo@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "edwardsk@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "waik@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "customerservice@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "warnerb@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "esmondej@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "simmonsl@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "baumanl@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "bethelt@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "stovallt@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "prosserc@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "runnionk@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "administration@trimet.org"
+        },
+        {
+            "type": "Email",
+            "url": "hello@trimet.org"
+        },
+        {
+            "type": "GTFS Feed",
+            "url": "http:\/\/developer.trimet.org\/schedule\/gtfs.zip"
+        },
+        {
+            "type": "Licensing",
+            "url": "http:\/\/developer.trimet.org\/terms_of_use.shtml"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/developer.trimet.org\/terms_of_use.shtml"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/trimet"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.trimet.org\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/trimet.org"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.trimet.org"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/trimet.org\/"
+        }
+    ]
+}
